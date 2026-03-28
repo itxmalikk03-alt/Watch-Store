@@ -68,7 +68,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text('Watch Store',
+                    Text('Watch Store Hub',
                         style: TextStyle(
                             color: Colors.white,
                             fontSize: 18,
